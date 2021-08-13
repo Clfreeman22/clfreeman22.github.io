@@ -1,1 +1,2 @@
-# clfreeman22.github.io
+# clfreeman22.github.io 
+This is my personal website.

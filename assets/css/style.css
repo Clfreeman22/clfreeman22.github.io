@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* background-color: lightgray; */
 }
-
 header { 
     padding: 20px 35px;
-    background-color: green;
+    background-color: lightgray;
     display: flex;
 }
 header h1 {
@@ -29,3 +29,39 @@ header nav ul li {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+.my-info {
+    background-image: url("../images/snowman.jpg");
+    height: 400px;
+    background-position: 0% 25%;
+    background-size: cover;
+    position: relative;
+}
+.myinfo { 
+    margin-top: 100px;
+    padding: 35px;
+    float: left;
+    width: 35%;
+    text-align: left;
+    background: lightgray
+} 
+.projects {
+    background-color: lightgray;
+    
+}
+.projects h2 {
+    color: Black;
+    padding: 15px 0px 0px 15px;
+}
+.projects div {
+    text-align: center;
+    padding: 25px;
+}
+.projects div a {
+    color:black;
+    font-size: xx-large;
+    text-decoration: none;
+    font-weight: bold;
+    background-image: url();
+}
+

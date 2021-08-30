@@ -70,6 +70,9 @@ section h2 {
 }
 .projects div p {
     font-size: medium;
+    text-align:center;
+    padding: 5px 15% 0px 15%;
+    
 }
 .contact {
     background-color: grey;
